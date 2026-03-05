@@ -2,5 +2,8 @@
   "dependencies": {
     "@js-temporal/polyfill": "^0.5.1",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3"
   }
 }
